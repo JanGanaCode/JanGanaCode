@@ -8,12 +8,12 @@ On the top of my full-time job I’m currently working on my new <a href="https:
 
 ```js
 const favourites = [
- "react",
- "javascript",
- "typescript",
- "html",
- "css",
- "express",
+  "react",
+  "javascript",
+  "typescript",
+  "html",
+  "css",
+  "express",
 ]; 
 ```
 
