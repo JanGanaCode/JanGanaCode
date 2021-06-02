@@ -25,10 +25,10 @@ const favourites = [
 <br>
 
 <div>
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" title="ReactJS" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" title="JavaScript" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript.svg" title="TypeScript" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" title="HTML" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" title="CSS" width="70" height="70">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" title="NodeJS" width="70" height="70">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" title="ReactJS" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js_official.svg" title="JavaScript" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_typescript_official.svg" title="TypeScript" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" title="HTML" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" title="CSS" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" title="NodeJS" width="80" height="80">
 <div>
