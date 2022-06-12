@@ -20,7 +20,7 @@ const favourites = [
 
 <br>
 
-📚 <a href="https://www.jangana.dev/blog" title="Visit jangana.dev" target="_blank">Blog</a><br> (WIP)
+📚 <a href="https://www.jangana.dev/blog" title="Visit jangana.dev" target="_blank">Blog</a> (WIP)<br>
 📸 <a href="https://www.instagram.com/janganacode" title="Visit Instagram page" target="_blank">Fancy coding pictures</a>
 
 <br>
