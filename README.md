@@ -32,4 +32,5 @@ const favourites = [
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" title="HTML" width="80" height="80">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" title="CSS" width="80" height="80">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" title="NodeJS" width="80" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" width="80" height="80" style="background: #ffffff">
 <div>
