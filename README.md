@@ -1,26 +1,12 @@
 ## Hello 🙋🏻‍♂️
 
 
-On the top of my full-time job I’m currently working on my new <a href="https://www.jangana.dev" title="Visit jangana.dev" target="_blank">personal website</a>
- which is using <a href="https://nextjs.org/" title="Visit NextJS website" target="_blank">NextJS</a> & <a href="https://strapi.io/" title="Visit StrapiJS website" target="_blank">StrapiJS</a> + a number of small side projects to expand my knowledge around <a href="https://reactjs.org/" title="Visit ReactJS website" title="Visit ReactJS website" target="_blank">ReactJS</a> and JS in general.
+On the top of my full-time job I’m creating <a href="https://www.youtube.com/@janganacode" title="Visit Jan Gana Code YouTube channel" target="_blank">YouTube videos</a> and <a href="https://www.jangana.dev/blog" title="Visit JanGana.dev" target="_blank">blog posts</a> about coding .
 
 <br>
 
-```js
-const favourites = [
-  "react",
-  "javascript",
-  "typescript",
-  "html",
-  "css",
-  "express",
-  "aws",
-]; 
-```
-
-<br>
-
-📚 <a href="https://www.jangana.dev/blog" title="Visit jangana.dev" target="_blank">Blog</a> (WIP)<br>
+🎥 <a href="https://www.youtube.com/@janganacode" title="Visit jangana.dev/blog" target="_blank">YouTube</a><br>
+📚 <a href="https://www.jangana.dev/blog" title="Visit jangana.dev" target="_blank">Blog</a><br>
 📸 <a href="https://www.instagram.com/janganacode" title="Visit Instagram page" target="_blank">Fancy coding pictures</a>
 
 <br>
