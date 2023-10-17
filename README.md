@@ -24,7 +24,11 @@
   </a>
     <a href="https://linkedin.com/in/jangana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jangana" height="30" width="40" />
     </a>
+    <a href="https://x.com/janganacode" target="blank"><img style="background-color: red;" align="center" src="https://i.pinimg.com/736x/ed/54/51/ed5451961869a97b434b185f2fe064cc.jpg" alt="jangana" height="35" width="37" />
+    </a>
 </p>
+
+
 
 <br/>
 
