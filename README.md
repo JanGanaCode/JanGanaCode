@@ -11,7 +11,7 @@
 
 ▶️ I create videos related to programming/tech on [YouTube](https://www.youtube.com/@janganacode).
 
-📝 I regularly write articles on [jangana.dev/blog](https://www.jangana.dev/blog).
+📝 I write articles on [jangana.dev/blog](https://www.jangana.dev/blog).
 
 <br/>
 
